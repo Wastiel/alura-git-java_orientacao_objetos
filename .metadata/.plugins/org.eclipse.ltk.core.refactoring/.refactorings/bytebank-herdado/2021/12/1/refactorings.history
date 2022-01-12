@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;EditrVideo.java&apos; to &apos;EditorVideo.java&apos;&#x0D;&#x0A;- Original project: &apos;bytebank-herdado&apos;&#x0D;&#x0A;- Original element: &apos;EditrVideo.java&apos;&#x0D;&#x0A;- Renamed element: &apos;EditorVideo.java&apos;" description="Rename compilation unit &apos;EditrVideo.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{EditrVideo.java" name="EditorVideo.java" references="false" stamp="1640780594961" version="1.0"/>
+</session>

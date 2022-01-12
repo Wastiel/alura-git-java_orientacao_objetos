@@ -1,0 +1,11 @@
+
+//Gerente e um Funcionario, gerente herda da class funcionario, assina o contrato autenticavel
+public class Gerente extends Funcionario implements Autenticavel{
+	
+
+	public double getBonificacao() {
+		System.out.println("Bonificacao Gerente");
+		return super.getSalario();
+	}
+	
+}
